@@ -1,4 +1,15 @@
 ---
 label: Blog post
 hide_body: true
-fields: []
+fields:
+- name: titulo
+  type: text
+  config:
+    required: false
+  label: Título
+- name: descripcion
+  type: text
+  config:
+    required: false
+  label: Descripción
+  description: Descripción del vídeo
