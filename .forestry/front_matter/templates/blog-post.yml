@@ -13,3 +13,5 @@ fields:
     required: false
   label: Descripción
   description: Descripción del vídeo
+pages:
+- _posts/post-1.md
