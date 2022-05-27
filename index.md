@@ -13,4 +13,4 @@ Texto de prueba
 
 ### Una imagen
 
-![](/uploads/istock-164553894.jpg "Silla playa")
+![](/migvidal.github.io/uploads/istock-164553894.jpg)
