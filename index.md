@@ -1,11 +1,11 @@
 ---
 
 ---
-# Hugo Boss
+# Conociendo A
 
-Texto de prueba
+Con Hugo Mancha
 
-[Un enlace al canal](https://www.youtube.com/channel/UCXPCPTcFAsm44x2cKnTfxGw)
+[Suscríbete](https://www.youtube.com/channel/UCXPCPTcFAsm44x2cKnTfxGw)
 
 ### Un vídeo
 
